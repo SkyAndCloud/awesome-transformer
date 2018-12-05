@@ -4,6 +4,8 @@
 <a href="https://raw.githubusercontent.com/SkyAndCloud/awesome-transformer/master/LICENSE"><img src="https://img.shields.io/cocoapods/l/Kingfisher.svg?style=flat"></a>
 </p>
 
+**This repo is not maintained. For latest version, please visit [ICTNLP official repo](https://github.com/ictnlp/awesome-transformer)**
+
 A collection of transformer's guides, implementations and so on(For those who want to do some research using transformer as a baseline or simply reproduce paper's performance).
 
 Please feel free to pull requests or report issues.
